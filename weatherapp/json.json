@@ -1,0 +1,66 @@
+{
+  "city": {
+    "id": 2643743,
+    "name": "London",
+    "coord": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    },
+    "country": "GB",
+    "population": 0
+  },
+  "cod": "200",
+  "message": 0.0262,
+  "cnt": 2,
+  "list": [
+    {
+      "dt": 1441710000,
+      "temp": {
+        "day": 288.79,
+        "min": 282,
+        "max": 288.79,
+        "night": 282,
+        "eve": 287.8,
+        "morn": 288.79
+      },
+      "pressure": 1033.68,
+      "humidity": 92,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.8,
+      "deg": 53,
+      "clouds": 32
+    },
+    {
+      "dt": 1441796400,
+      "temp": {
+        "day": 289.13,
+        "min": 282.13,
+        "max": 290.58,
+        "night": 283.16,
+        "eve": 288.56,
+        "morn": 282.13
+      },
+      "pressure": 1030.67,
+      "humidity": 94,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 3.63,
+      "deg": 107,
+      "clouds": 64,
+      "rain": 0.27
+    }
+  ]
+}
